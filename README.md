@@ -20,4 +20,4 @@
 - But, it is manageable to submit one block.
 - Many famous cryptocurrecies, including Bitcoin, uses proof-of-work system.
 - There exist other mechanisms too such as Proof-of-Stake, Proof-of-Athority, Proof-of-Capacity, etc.
-- 
+## Dynamic difficulty rate
