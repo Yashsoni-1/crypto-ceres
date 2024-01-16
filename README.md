@@ -21,3 +21,6 @@
 - Many famous cryptocurrecies, including Bitcoin, uses proof-of-work system.
 - There exist other mechanisms too such as Proof-of-Stake, Proof-of-Athority, Proof-of-Capacity, etc.
 ## Dynamic difficulty rate
+- Built a complete blockchain, including a consensus mechanism, cryptographic functions, and a decentralized network.
+- Implemented core blockchain concepts, including the Proof of Work (PoW) algorithm with dynamic difficulty, and a blockchain network that incorporates WebSockets to establish a real-time, connected, peer-to-peer server.
+Created a transaction pool to manage a real-time list of incoming data and incorporated these transactions into the core blocks of the chain.
